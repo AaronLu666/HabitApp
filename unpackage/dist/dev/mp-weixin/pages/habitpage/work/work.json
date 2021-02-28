@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "WORK | STUDY",
+  "usingComponents": {
+    "u-number-box": "/uview-ui/components/u-number-box/u-number-box",
+    "u-divider": "/uview-ui/components/u-divider/u-divider",
+    "u-count-down": "/uview-ui/components/u-count-down/u-count-down",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-popup": "/uview-ui/components/u-popup/u-popup"
+  }
+}

@@ -1,0 +1,19 @@
+
+.bg-color-card{
+	height: 1000rpx;
+	border-radius: 0rpx 0rpx 70rpx 70rpx;
+}
+/*样式的width和height一定要与定义的cWidth和cHeight相对应*/
+.qiun-charts3 {
+	border: solid 1px #FFFFFF;
+	width: 710rpx;
+	height: 300rpx;
+	position: relative;
+}
+.charts3 {
+	position: absolute;
+	margin-left: 30rpx;
+	width: 300rpx;
+	height: 300rpx;
+}
+
